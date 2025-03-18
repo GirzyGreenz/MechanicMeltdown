@@ -1,0 +1,59 @@
+Subtitles should be invisible
+
+No subtitle...
+This is the 3th item the array and the 4th item in this notepad notice that an array starts at 0 not at 1 like this note)!!!!! The empty line is line 1 in the array
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Not all objectives are completed.
+You interacted with this NPC.
+Not all cars are repaired.
+Could you repair my vehicle? I will pay you €70 when you are finished.
+Maybe I should help my cliënts first.
+Hi my name  is Josh. Can I help you?
+With this wrench I can repair cars in the Garage.
+Hmmm maybe this hammer will be usefull at night.
+-
+You already repaired my vehicle.
+Thank you for repairing my car, here is your €70.
+There is still a car in my Garage. I Should place it on the parking lot before I go to bed.
+Let's repair this car in the garage.
+If I destroy to many cars people will get suspicious.
+I can't use this tool right now.
+Fixed, now this car can go back to the parking lot outside.
+I can't fix the car here. I should repair it in the garage.
+Dr. Carter: Good morning. I understand you're here for the results of your examination. Let's take a look.
+David: Yes, I'm very concerned. The symptoms have worsened over the past few months.
+Dr. Carter: I understand your concern. We've conducted extensive tests, and I must tell you that the results aren't good.
+Dr. Carter: You have advanced-stage cancer.
+David: Cancer? That's... that's terrible. How did this happen? What can we do?
+Dr. Carter: The cause is attributed to your years of work in a gasoline and diesel car garage.
+Dr. Carter: Exposure to exhaust fumes and chemicals can be a risk factor.
+Dr. Carter: I understand that this news is overwhelming. We will develop a treatment plan to address the cancer.
+Dr. Carter: However, there's an immediate challenge we need to address...
+David: What is it?
+Dr. Carter: Your insurance wants the full 600 euros of the own risk part for the payment of your treatment upfront.
+Dr. Carter: It needs to be paid within the next three days.
+Dr. Carter: If you don't have the money by then we can't help you.
+David: But I don't have any business at the moment right now. How do they expect me to cough up 600 euros by then.
+Dr. Carter: I realize this is a significant amount, but we can't do anything for you.
+David: This is a lot to process. I need to leave.
+How am I supose to get this money within 3 days time.
+How about I wreck some old petrol cars from those rich bastards.
+I should do that at night.
+Lets get some sleep first.
+How are you today?
+What a beautifull day isn't it?
+To destory this car I should use a hammer from my garage.
+
+
+
+

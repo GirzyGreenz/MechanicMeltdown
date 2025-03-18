@@ -1,0 +1,30 @@
+Objectives should be invisible
+
+No objectives...
+ (completed)
+This is the 4th item the array and the 5th item in this notepad notice that an array starts at 0 not at 1 like this note)!!!!! The empty line is line 1 in the array
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- Destroy at least 1 car
+- Open the garage
+- Talk to the customer
+- Walk to the moon
+- Go to Bed
+- Wait in the room
+- Have a cup of tea
+- Sleep on the ground
+- Repair the door
+- Slam the guy
+- Have a donut
+- Destroy a car
+- Go to the doctor
+- Help at least 1 customer
+

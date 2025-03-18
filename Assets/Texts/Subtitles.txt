@@ -1,0 +1,17 @@
+Subtitles should be invisible
+
+No subtitle...
+This is the 3th item the array and the 4th item in this notepad notice that an array starts at 0 not at 1 like this note)!!!!! The empty line is line 1 in the array
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Not all objectives are completed.
+You interacted with this NPC.
